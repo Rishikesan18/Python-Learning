@@ -1,2 +1,2 @@
-print("Rishikean")
+print(15+3)
 

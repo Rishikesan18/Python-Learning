@@ -1,0 +1,6 @@
+print(15+3)
+print(22-2)
+print(8*8)
+print(35/5)
+print(8**2)
+print(7%3)
