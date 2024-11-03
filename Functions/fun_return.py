@@ -6,3 +6,4 @@ print(res)
 
 st=rishi("rishi","keasan")
 print(st)
+
